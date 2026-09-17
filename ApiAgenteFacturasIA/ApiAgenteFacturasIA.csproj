@@ -7,13 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include=".github\workflows\ci.yml" />
+    <None Include="C:\Users\Programador2\Desktop\code\.github\workflows\ci.yml" Link="ci.yml" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.9" />
     <PackageReference Include="Microsoft.Data.Sqlite" Version="10.0.10" />
     <PackageReference Include="Scalar.AspNetCore" Version="2.16.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include=".github\workflows\" />
   </ItemGroup>
 
 </Project>
