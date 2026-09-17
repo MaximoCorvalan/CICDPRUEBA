@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET build
+**/bin/
+**/obj/
+
+# Test results
+TestResults/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo

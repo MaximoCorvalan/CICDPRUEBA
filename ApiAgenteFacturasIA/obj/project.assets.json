@@ -421,11 +421,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Programador2\\Desktop\\Agente Contable\\ApiAgenteFacturasIA\\ApiAgenteFacturasIA.csproj",
+      "projectUniqueName": "C:\\Users\\Programador2\\Desktop\\code\\ApiAgenteFacturasIA\\ApiAgenteFacturasIA.csproj",
       "projectName": "ApiAgenteFacturasIA",
-      "projectPath": "C:\\Users\\Programador2\\Desktop\\Agente Contable\\ApiAgenteFacturasIA\\ApiAgenteFacturasIA.csproj",
+      "projectPath": "C:\\Users\\Programador2\\Desktop\\code\\ApiAgenteFacturasIA\\ApiAgenteFacturasIA.csproj",
       "packagesPath": "C:\\Users\\Programador2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Programador2\\Desktop\\agente contable\\ApiAgenteFacturasIA\\obj\\",
+      "outputPath": "C:\\Users\\Programador2\\Desktop\\code\\ApiAgenteFacturasIA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

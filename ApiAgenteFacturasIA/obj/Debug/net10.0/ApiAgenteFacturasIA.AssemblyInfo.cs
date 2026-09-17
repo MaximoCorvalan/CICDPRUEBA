@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAgenteFacturasIA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8f5eadd5eacfd55a00030a028a0e11151c29632")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAgenteFacturasIA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAgenteFacturasIA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -61,8 +61,7 @@
               "RelativeToolTip": "..\\TestProyect\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T15:30:24.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T15:30:24.724Z"
             },
             {
               "$type": "Document",
@@ -87,21 +86,19 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T15:06:48.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T15:06:48.812Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApiAgenteFacturasIA",
+              "Title": "ApiAgenteFacturasIA.csproj",
               "DocumentMoniker": "C:\\Users\\Programador2\\Desktop\\Agente Contable\\ApiAgenteFacturasIA\\ApiAgenteFacturasIA.csproj",
               "RelativeDocumentMoniker": "ApiAgenteFacturasIA.csproj",
               "ToolTip": "C:\\Users\\Programador2\\Desktop\\Agente Contable\\ApiAgenteFacturasIA\\ApiAgenteFacturasIA.csproj",
               "RelativeToolTip": "ApiAgenteFacturasIA.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-17T15:04:16.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T15:04:16.408Z"
             },
             {
               "$type": "Document",
@@ -125,8 +122,7 @@
               "RelativeToolTip": "Controllers\\AgentIAController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAmwEoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T14:21:01.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T14:21:01.003Z"
             }
           ]
         }
