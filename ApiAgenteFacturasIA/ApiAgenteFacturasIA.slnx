@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TestProyect/TestProyect.csproj" Id="1bd76024-fdb7-4cfe-92b1-c55cd363b5ec" />
+  <Project Path="ApiAgenteFacturasIA.csproj" />
+</Solution>

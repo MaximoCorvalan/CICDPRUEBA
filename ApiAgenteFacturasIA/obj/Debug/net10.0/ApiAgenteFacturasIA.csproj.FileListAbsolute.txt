@@ -1,0 +1,440 @@
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.staticwebassets.endpoints.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.exe
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.deps.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.runtimeconfig.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.AssemblyReference.cache
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfoInputs.cache
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfo.cs
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.CoreCompileInputs.cache
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\scopedcss\bundle\ApiAgenteFacturasIA.styles.css
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgent.DF034812.Up2Date
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\refint\ApiAgenteFacturasIA.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.genruntimeconfig.cache
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\obj\Debug\net10.0\ref\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.staticwebassets.endpoints.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.exe
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.deps.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.runtimeconfig.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.AssemblyReference.cache
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfoInputs.cache
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfo.cs
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.CoreCompileInputs.cache
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\scopedcss\bundle\ApiAgenteFacturasIA.styles.css
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgent.DF034812.Up2Date
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\refint\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.genruntimeconfig.cache
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\ref\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\facturas\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Programador2\Desktop\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\refint\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.staticwebassets.endpoints.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.exe
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.deps.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.runtimeconfig.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.AssemblyReference.cache
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfoInputs.cache
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfo.cs
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.CoreCompileInputs.cache
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\scopedcss\bundle\ApiAgenteFacturasIA.styles.css
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgent.DF034812.Up2Date
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.genruntimeconfig.cache
+C:\Users\Programador3\Desktop\FACTURAS 8-10\ApiAgenteFacturasIA\obj\Debug\net10.0\ref\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.staticwebassets.endpoints.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.exe
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.deps.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.runtimeconfig.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.AssemblyReference.cache
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfoInputs.cache
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfo.cs
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.CoreCompileInputs.cache
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\scopedcss\bundle\ApiAgenteFacturasIA.styles.css
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgent.DF034812.Up2Date
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\refint\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.genruntimeconfig.cache
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\obj\Debug\net10.0\ref\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\appsettings.Development.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\appsettings.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\ApiAgenteFacturasIA.staticwebassets.endpoints.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\ApiAgenteFacturasIA.exe
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\ApiAgenteFacturasIA.deps.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\ApiAgenteFacturasIA.runtimeconfig.json
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\ApiAgenteFacturasIA.pdb
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\Microsoft.Data.Sqlite.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\Microsoft.OpenApi.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\Scalar.AspNetCore.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\SQLitePCLRaw.core.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\FACTURAS 10-8\ApiAgenteFacturasIA\_build_check\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.staticwebassets.endpoints.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.exe
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.deps.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.runtimeconfig.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.AssemblyReference.cache
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfoInputs.cache
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfo.cs
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.CoreCompileInputs.cache
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\scopedcss\bundle\ApiAgenteFacturasIA.styles.css
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgent.DF034812.Up2Date
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\refint\ApiAgenteFacturasIA.dll
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.genruntimeconfig.cache
+C:\Users\Programador3\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ref\ApiAgenteFacturasIA.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.staticwebassets.endpoints.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.exe
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.deps.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.runtimeconfig.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.AssemblyReference.cache
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfoInputs.cache
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfo.cs
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.CoreCompileInputs.cache
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\scopedcss\bundle\ApiAgenteFacturasIA.styles.css
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgent.DF034812.Up2Date
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\refint\ApiAgenteFacturasIA.dll
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.genruntimeconfig.cache
+C:\Users\Bot\Desktop\agente contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ref\ApiAgenteFacturasIA.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.AssemblyReference.cache
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfoInputs.cache
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.AssemblyInfo.cs
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.csproj.CoreCompileInputs.cache
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\refint\ApiAgenteFacturasIA.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\appsettings.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.staticwebassets.endpoints.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.exe
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.deps.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.runtimeconfig.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\ApiAgenteFacturasIA.pdb
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\scopedcss\bundle\ApiAgenteFacturasIA.styles.css
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgent.DF034812.Up2Date
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ApiAgenteFacturasIA.genruntimeconfig.cache
+C:\Users\Programador2\Desktop\Agente Contable\ApiAgenteFacturasIA\obj\Debug\net10.0\ref\ApiAgenteFacturasIA.dll
